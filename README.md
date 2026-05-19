@@ -38,7 +38,6 @@ crypto-market-metrics-automation/
 ├── sql/ → 10 analysis queries + schema notes
 ├── dashboard/ → Superset export ZIP + screenshot
 ├── presentation/ → Key findings slide deck (PDF)
-├── assets/ → Architecture diagram
 ├── .gitignore
 ├── LICENSE → MIT
 ├── requirements.txt
