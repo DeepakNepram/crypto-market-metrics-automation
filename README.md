@@ -4,8 +4,6 @@
 > computes risk/return metrics, stores them in a cloud PostgreSQL database,
 > and visualizes them in an Apache Superset dashboard.
 
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
-
 ---
 
 ## 🚀 Project Overview
