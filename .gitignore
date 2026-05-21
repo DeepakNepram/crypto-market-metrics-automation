@@ -1,0 +1,30 @@
+# Environment / secrets — NEVER upload to GitHub
+.env
+*.env
+secrets.py
+config_local.py
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Data files (don't upload large CSVs)
+*.csv
+*.gz
+*.zip
+!dashboard/dashboard_export.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
