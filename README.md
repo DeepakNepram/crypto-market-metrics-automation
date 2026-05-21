@@ -32,6 +32,7 @@ Apache Superset (Docker) → Hero Dashboard
 
 ## 📁 Project Structure
 crypto-market-metrics-automation/
+├── daily_crypto_metrics_automation
 ├── notebooks/ → Google Colab pipeline notebook
 ├── sql/ → 10 analysis queries + schema notes
 ├── dashboard/ → Superset export ZIP + screenshot
