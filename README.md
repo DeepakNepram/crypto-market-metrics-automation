@@ -108,6 +108,8 @@ Open http://localhost:8088 (admin / admin)
 
 See `dashboard/dashboard_notes.md` for full details.
 
+Optional: Automating the crypto metrics script using the daily_cyrpto_metrics_automation via Windows Task Scheduler so that the dataset and summary CSV refresh daily, allowing superset dashboards to stay up to date with minimal manual effort.
+
 ---
 
 ## 🔍 Key Findings
